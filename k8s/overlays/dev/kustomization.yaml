@@ -14,4 +14,7 @@ namePrefix: dev-
 labels:
 - pairs:
     environment: dev
-  
+
+images:
+- name: ghcr.io/jbluemel/user-service-demo
+  newTag: main-d0f5210a545512c89597cd2f442277f5aeb3b15a
